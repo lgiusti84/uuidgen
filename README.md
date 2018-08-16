@@ -4,7 +4,7 @@ Una solucion para poder utilizar el comando **uuidgen** en maquinas con windows 
 
 Creado para un workshop en curso, no tiene ninguna funcionalidad o configuracion extra.
 
-##Como usarlo:
+### Como usarlo:
 * Clonar el repo
 * Agregar la carpeta que contiene los archivos al path (solo la carpeta)
 * Llamar a `uuidgen` en la linea de comandos (CMD o BASH)
@@ -17,7 +17,7 @@ This is a quick UUID generator for BASH and windows CMD.
 
 Created for a workshop in course, no fancy elements/functionalities here.
 
-##To make it work:
+### To make it work:
 * Clone this repo
 * Add the folder where this files are contained to the path (just the folder)
 * Call (Type on your command line interface) `uuidgen`
